@@ -1,2 +1,3 @@
-# meropi
+# Meropi
+
 Social media simplified
